@@ -40,8 +40,8 @@
 		border: none;
 		padding: 7px 0;
 		width: 100%;
-		background-color: rgb(62, 175, 124);
-		color: white;
+		background-color: var(--primary-color);
+		color: var(--white-color);
 		font-weight: 700;
 	}
 </style>

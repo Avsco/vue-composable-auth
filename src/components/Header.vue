@@ -54,10 +54,10 @@
 		display: flex;
 		align-items: center;
 		padding: 10px;
-		color: rgb(62, 175, 124);
+		color: var(--primary-color);
 	}
 
 	.header__link--actual {
-		color: #2c3e50;
+		color: var(--font-color);
 	}
 </style>
